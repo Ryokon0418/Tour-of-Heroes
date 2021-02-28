@@ -7,7 +7,7 @@
    Angular needs to know how the pieces of your application fit together 
    and what other files and libraries the app requires. This information is called metadata.
 4. NgModuleやそれに含まれる各モジュールはapp.module.tsにある
-5. 
+5. Observable=1つの値として扱われるもの、{変数名}$=Observableであるという意味
    
 
 
